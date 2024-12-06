@@ -28,12 +28,7 @@ Contributions make the open-source community an amazing place to learn, inspire,
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 🙏 Acknowledgments
-
-- Inspired by the mythological Prometheus
-- Built on principles of advanced prompt engineering
-- Developed with input from the AI research community  (Special thanks to @NeoVertex1)
-
+## PROMETHEUS 🐦‍🔥
 
 ```python
 <rules>
@@ -207,6 +202,13 @@ answer the above question with Y or N at each output.
 </rules>
 ```
 
+🙏 Acknowledgments
+
+Inspired by the mythological Prometheus and quantum computing principles
+Built on advanced prompt engineering frameworks and theoretical mathematics
+Developed with input from the AI research community
+Special thanks to [@NeoVertex1](https://github.com/NeoVertex1) for invaluable contributions and insights to the project's theoretical foundations
+
 ## 🔄 System Evolution
 
 Components undergo continuous evolution through:
@@ -218,9 +220,10 @@ Components undergo continuous evolution through:
 
 This enhanced architecture ensures robust, quantum-inspired cognitive processing while maintaining system coherence and adaptability.
 
-## 📞 Contact
+## 💼 Contact
 
 Twitter - [@michielh.eth](https://twitter.com/michielh.eth)
+Email - [Mihiel H.](mailito:michiel@4mlabs.io)
 
 
 
