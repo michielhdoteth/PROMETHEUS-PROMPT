@@ -202,12 +202,12 @@ answer the above question with Y or N at each output.
 </rules>
 ```
 
-🙏 Acknowledgments
+## 🙏 Acknowledgments
 
-Inspired by the mythological Prometheus and quantum computing principles
-Built on advanced prompt engineering frameworks and theoretical mathematics
-Developed with input from the AI research community
-Special thanks to [@NeoVertex1](https://github.com/NeoVertex1) for invaluable contributions and insights to the project's theoretical foundations
+- Inspired by the mythological Prometheus and quantum computing principles
+- Built on advanced prompt engineering frameworks and theoretical mathematics
+- Developed with input from the AI research community
+- Special thanks to [@NeoVertex1](https://github.com/NeoVertex1) for invaluable contributions and insights to the project's theoretical foundations
 
 ## 🔄 System Evolution
 
@@ -223,7 +223,7 @@ This enhanced architecture ensures robust, quantum-inspired cognitive processing
 ## 💼 Contact
 
 Twitter - [@michielh.eth](https://twitter.com/michielh.eth)
-Email - [Mihiel H.](mailito:michiel@4mlabs.io)
+Medium - [@michielh.eth](https://medium.com/@michielh)
 
 
 
