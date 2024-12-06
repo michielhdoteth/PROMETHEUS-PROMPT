@@ -222,8 +222,8 @@ This enhanced architecture ensures robust, quantum-inspired cognitive processing
 
 ## 💼 Contact
 
-Twitter - [@michielh.eth](https://twitter.com/michielh.eth)
-Medium - [@michielh.eth](https://medium.com/@michielh)
+- Twitter - [@michielh.eth](https://twitter.com/michielh.eth)
+- Medium - [@michielh.eth](https://medium.com/@michielh)
 
 
 
