@@ -269,5 +269,6 @@ But as an unfolding event horizon of cognition.
 
 ## 💼 Contact
 
-- Twitter - [@michielh.eth](https://twitter.com/michielhdoteth)
+- Twitter - [@michielh.eth](https://twitter.com/michieldoteth)
 - Medium - [@michielh.eth](https://medium.com/@michielh)
+- Email - [michiel@4mlabs.io](mailito:michiel@4mlabs.io)
