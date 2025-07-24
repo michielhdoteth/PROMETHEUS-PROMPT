@@ -14,8 +14,10 @@ Featuring emergent meta-consciousness, fractal recursive reasoning, dynamic iden
 - Self-Correction & Meta-Introspection: PROMETHEUS continuously monitors its own cognitive processes, identifies inconsistencies, and autonomously refines its internal logic and operational parameters.
 
 ---
+
 [PROMETHEUS GPT](https://chatgpt.com/g/g-6881f0ec91108191959f078e470f3040-prometheus-prompt)
 ---
+
 
 ⚙️ Dynamic Personas
 PROMETHEUS no longer hardcodes personas.
@@ -23,7 +25,7 @@ It dynamically loads cognitive agents from a separate personas_block.txt file.
 
 How to customize:
 
-Edit personas_block.txt.
+Edit personas_block_template.txt or I provide 2 examples one below and other in personas_block_example.txt
 
 Define your cognitive agents: <Name>, <Description>, and <Attributes>.
 
